@@ -17,7 +17,7 @@ I do not care how you use this, do what you like, MIT license. If you give any c
 new Mutex(true, "ROBLOX_singletonMutex");
 ```
 Basically, this line of code takes control of the part of Roblox that says "No multi-instance for you!" and disables it.
-You can see the whole thing in #Program.cs
+You can see the whole thing in [Program.cs](https://github.com/MiningTcup/Roblox-Multi-Instance/blob/main/Program.cs).
   
 **More:**
 1. Is this a virus? It's open source, you can look for yourself.

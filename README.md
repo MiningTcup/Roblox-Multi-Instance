@@ -14,9 +14,9 @@ Instructions:
 
 How it works:
 
-	```c#
-	new Mutex(true, "ROBLOX_singletonMutex");
-	```
+  ```c#
+  new Mutex(true, "ROBLOX_singletonMutex");
+  ```
   Basically, this line of code takes control of the part of Roblox that says "No multi-instance for you!" and disables it.
 	You can see the whole thing in #Program.cs
   

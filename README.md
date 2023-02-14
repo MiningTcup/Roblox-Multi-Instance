@@ -3,7 +3,7 @@ Open this program to run multiple Roblox instances (on different accounts) on th
 I do not care how you use this, do what you like, MIT license. If you give aany credit, it should be to MainDabRblx.
 
 **Download:**
-  
+Download [Here](https://github.com/MiningTcup/Roblox-Multi-Instance/releases/tag/v1.0)
 
 **Instructions:**
 1. Open the program

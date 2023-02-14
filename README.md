@@ -21,11 +21,7 @@ How it works:
   You can see the whole thing in #Program.cs
   
 More:
-
-  Q: Is this against the Roblox ToS?
-  
-  A: Nope. They can't really detect it anyways.
-  
-  Q: Is this a virus?
-  
-  A: It's open source, you can look for yourself.
+  Q. Is this a virus?
+  A. It's open source, you can look for yourself.
+  Q. Will I get reported in Roblox?
+  A. No. It's not against their ToS and is undetectable anyways.

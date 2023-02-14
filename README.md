@@ -6,12 +6,14 @@ Download:
   
 
 Instructions:
+
   1. Open the program
   2. Make sure to close all instances of Roblox
   3. Press any key
   4. You can now open as many Roblox instances as you want on the same device, granted they are on seperate accounts.
 
 How it works:
+
   ```c#
   new Mutex(true, "ROBLOX_singletonMutex");
   ```
@@ -19,7 +21,9 @@ How it works:
   You can see the whole thing in #Program.cs
   
 More:
+
   Q: Is this against the Roblox ToS?
   A: Nope. They can't really detect it anyways.
+  
   Q: Is this a virus?
   A: It's open source, you can look for yourself.

@@ -1,4 +1,4 @@
-# Roblox MultiInstance
+# Roblox Multi-Instance
 Open this program to run multiple Roblox instances (on different accounts) on the same device. Thanks to MainDabRblx.
 I do not care how you use this, do what you like, MIT license. If you give aany credit, it should be to MainDabRblx.
 
@@ -23,7 +23,9 @@ How it works:
 More:
 
   Q: Is this against the Roblox ToS?
+  
   A: Nope. They can't really detect it anyways.
   
   Q: Is this a virus?
+  
   A: It's open source, you can look for yourself.

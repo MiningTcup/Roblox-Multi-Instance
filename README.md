@@ -1,5 +1,5 @@
 # Roblox Multi-Instance
-Open this program to run multiple Roblox instances (on different accounts) on the same device. Thanks to MainDabRblx.
+Open this program to run multiple Roblox instances (on different accounts) on the same device. Thanks to [MainDabRblx](https://github.com/MainDabRblx).
 I do not care how you use this, do what you like, MIT license. If you give any credit, it should be to [MainDabRblx](https://github.com/MainDabRblx).
 
 

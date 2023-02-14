@@ -9,9 +9,8 @@ Instructions:
   4. You can now open as many Roblox instances as you want on the same device, granted they are on seperate accounts.
 
 How it works:
-
-  Basically,
+  
   ```c#
   new Mutex(true, "ROBLOX_singletonMutex");
   ```
-  takes control of the part of Roblox thats says "No multi-instance for you!" and disables it.
+  Basically, this line of code takes control of the part of Roblox that says "No multi-instance for you!" and disables it. You can look at the entire code file in 

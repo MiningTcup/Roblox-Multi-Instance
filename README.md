@@ -7,7 +7,8 @@ I do not care how you use this, do what you like, MIT license. If you give any c
 
 ***
 
-**Instructions:**
+Instructions
+---
 1. Open the program
 2. Make sure to close all instances of Roblox
 3. Press any key
@@ -15,7 +16,8 @@ I do not care how you use this, do what you like, MIT license. If you give any c
 
 ***
 
-**How it works:**
+How it works
+---
 ```c#
 new Mutex(true, "ROBLOX_singletonMutex");
 ```
@@ -24,6 +26,15 @@ You can see the whole thing in [Program.cs](https://github.com/MiningTcup/Roblox
 
 ***
 
-**More:**
-1. Is this a virus? It's open source, you can look for yourself.
-2. Will I get banned from Roblox? Extremly unlikely, as it this is not against Roblox ToS and is undetectable anyways.
+More
+---
+Q. Is this a virus?
+
+
+A. It's open source, you can look for yourself.
+
+
+Q. Will I get banned from Roblox?
+
+
+A. Extremly unlikely, as this is not against Roblox ToS and is undetectable anyways. However, I cannot guaruntee anything.

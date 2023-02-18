@@ -37,7 +37,7 @@ A. It's open source, you can look for yourself.
 Q. Why does my Anti-Virus ding it?
 
 
-A. Becuase it uses a mutex, which I guess could be malicious.
+A. Becuase it uses a mutex, which could be malicious.
 
 
 Q. Will I get banned from Roblox?

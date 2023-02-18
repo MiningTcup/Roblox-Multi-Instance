@@ -34,7 +34,7 @@ Q. Is this a virus?
 A. It's open source, you can look for yourself.
 
 
-Q. Why does my Anti-Virus ding it?
+Q. Why does my antivirus ding it?
 
 
 A. Becuase it uses a mutex, which could be malicious.

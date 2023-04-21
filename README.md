@@ -43,4 +43,4 @@ A. Becuase it uses a mutex, which could be malicious.
 Q. Will I get banned from Roblox?
 
 
-A. Extremly unlikely, as this is not against Roblox ToS and is undetectable anyways. However, I cannot guaruntee anything.
+A. Extremly unlikely, as this is not against Roblox ToS and is undetectable anyways. However, I cannot guarantee anything.

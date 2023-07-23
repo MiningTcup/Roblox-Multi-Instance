@@ -1,6 +1,6 @@
 # Roblox Multi-Instance
 Open this program to run multiple Roblox instances (on different accounts) on the same device. Thanks to [MainDabRblx](https://github.com/MainDabRblx).
-I do not care how you use this, do what you like, MIT license. If you give any credit, it should be to [MainDabRblx](https://github.com/MainDabRblx).
+I do not care how you use this, do what you like, MIT license. If you give any credit, it should be to MainDabRblx.
 
 
 **Download** [**Here**](https://github.com/MiningTcup/Roblox-Multi-Instance/releases/tag/v1.0)
@@ -9,6 +9,7 @@ I do not care how you use this, do what you like, MIT license. If you give any c
 
 Instructions
 ---
+[**Video Tutorial**](https://youtu.be/052rSExTrZY)
 1. Open the program
 2. Make sure to close all instances of Roblox
 3. Press any key

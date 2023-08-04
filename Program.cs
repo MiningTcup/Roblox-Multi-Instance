@@ -9,6 +9,7 @@ namespace MultipleRoblox
     {
         static void Main()
         {
+            Console.CursorVisible = false;
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Welcome to Roblox Multi-Instance!\n");
             Console.ForegroundColor = ConsoleColor.White;
@@ -24,7 +25,7 @@ namespace MultipleRoblox
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Write("using seperate accounts");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine(". If you close this window, all Roblox instances except for one will close. Make sure that you closed all Roblox instances before activating this.\n");
+            Console.WriteLine(". If you close this window, all Roblox instances except for one will close. Close all Roblox instances before activating this.\n");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Roblox Multi-Instance is now activated!\n");
             Console.ForegroundColor = ConsoleColor.Red;

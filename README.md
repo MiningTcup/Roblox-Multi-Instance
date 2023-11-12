@@ -13,7 +13,7 @@ Instructions
 1. Open the program
 2. Make sure to close all instances of Roblox
 3. Press any key
-4. You can now open as many Roblox instances as you want on the same device, granted they are on seperate accounts.
+4. You can now open as many Roblox instances as you want on the same device, granted they are on separate accounts.
 
 ***
 
@@ -32,16 +32,16 @@ More
 Q. Is this a virus?
 
 
-A. It's open source, you can look for yourself.
+A. It's open source, you can look at and compile it yourself.
 
 
 Q. Why does my antivirus ding it?
 
 
-A. Becuase it uses a mutex, which could be malicious.
+A. Because it uses a mutex, which could be malicious.
 
 
 Q. Will I get banned from Roblox?
 
 
-A. Extremly unlikely, as this is not against Roblox ToS and is undetectable anyways. However, I cannot guarantee anything.
+A. Extremely unlikely, as this is not against Roblox ToS and is undetectable anyway. However, I cannot guarantee anything.

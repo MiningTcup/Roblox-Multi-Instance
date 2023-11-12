@@ -44,4 +44,4 @@ A. Because it uses a mutex, which could be malicious.
 Q. Will I get banned from Roblox?
 
 
-A. Extremely unlikely, as this is not against Roblox ToS and is undetectable anyway. However, I cannot guarantee anything.
+A. Extremely unlikely, as this is not against Roblox ToS and the exploit is undetectable anyway. However, I cannot guarantee anything, and, as Roblox is banning alt accounts, try not to be too suspicious.

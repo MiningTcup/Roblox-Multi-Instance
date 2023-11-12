@@ -32,7 +32,7 @@ More
 Q. Is this a virus?
 
 
-A. It's open source, you can look at and compile it yourself.
+A. It's open source, you can look for yourself. You can compile it with [Visual Studio Community](https://visualstudio.microsoft.com/downloads/) if you don't feel comfortable downloading it.
 
 
 Q. Why does my antivirus ding it?

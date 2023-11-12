@@ -1,5 +1,5 @@
 # Roblox Multi-Instance
-Open this program to run multiple Roblox instances (on different accounts) on the same device.
+Open this program to run multiple Roblox instances (on different accounts) on the same Windows device.
 
 
 **Download** [**Here**](https://github.com/MiningTcup/Roblox-Multi-Instance/releases/tag/v1.0)

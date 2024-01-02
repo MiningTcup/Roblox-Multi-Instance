@@ -1,5 +1,6 @@
 # Binaries Removed
 Due to dumb people claiming this is a virus, all binaries have been removed.
+**Do not contact me about this being a virus, it's not.**
 ***
 # Roblox Multi-Instance
 Open this program to run multiple Roblox instances (on different accounts) on the same Windows device.

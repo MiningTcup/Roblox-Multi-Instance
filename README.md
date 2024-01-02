@@ -1,5 +1,5 @@
-# No more releases
-Due to some dumb people claiming this is a virus, I am removing releases. You will now have to compile it yourself using VS (see "Q. Is this a virus?").
+# Binaries Removed
+Due to dumb people claiming this is a virus, all binaries have been removed.
 ***
 # Roblox Multi-Instance
 Open this program to run multiple Roblox instances (on different accounts) on the same Windows device.

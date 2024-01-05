@@ -25,7 +25,7 @@ Basically, this line of code takes control of the part of Roblox that says "No m
 You can see the whole thing in [Program.cs](https://github.com/MiningTcup/Roblox-Multi-Instance/blob/main/Program.cs).
 
 ***
-Malware
+# Malware
 
 I want to address any concerns about the legitimacy of this software. Roblox Multi-Instance is distributed under the MIT license, and I encourage users to review the source code and compile it themselves for assurance.
 

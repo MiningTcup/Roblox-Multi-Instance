@@ -6,7 +6,7 @@ Open this program to run multiple Roblox instances (on different accounts) on th
 
 ***
 
-Instructions
+## Instructions
 ---
 [**Video Tutorial**](https://youtu.be/052rSExTrZY)
 1. Open the program
@@ -16,7 +16,7 @@ Instructions
 
 ***
 
-How it works
+## How it works
 ---
 ```c#
 new Mutex(true, "ROBLOX_singletonMutex");
@@ -25,7 +25,7 @@ Basically, this line of code takes control of the part of Roblox that says "No m
 You can see the whole thing in [Program.cs](https://github.com/MiningTcup/Roblox-Multi-Instance/blob/main/Program.cs).
 
 ***
-# Malware
+## Malware
 
 I want to address any concerns about the legitimacy of this software. Roblox Multi-Instance is distributed under the MIT license, and I encourage users to review the source code and compile it themselves for assurance.
 
@@ -33,7 +33,7 @@ I want to address any concerns about the legitimacy of this software. Roblox Mul
 
 If you have any questions or concerns about Roblox Multi-Instance, feel free to contact me through appropriate channels. I appreciate your understanding and cooperation.
 ***
-More
+## More
 ---
 Q. Why does my antivirus ding it?
 

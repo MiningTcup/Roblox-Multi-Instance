@@ -7,7 +7,6 @@ Open this program to run multiple Roblox instances (on different accounts) on th
 ***
 
 ## Instructions
----
 [**Video Tutorial**](https://youtu.be/052rSExTrZY)
 1. Open the program
 2. Make sure to close all instances of Roblox
@@ -17,7 +16,6 @@ Open this program to run multiple Roblox instances (on different accounts) on th
 ***
 
 ## How it works
----
 ```c#
 new Mutex(true, "ROBLOX_singletonMutex");
 ```
@@ -25,16 +23,14 @@ Basically, this line of code takes control of the part of Roblox that says "No m
 You can see the whole thing in [Program.cs](https://github.com/MiningTcup/Roblox-Multi-Instance/blob/main/Program.cs).
 
 ***
-## Malware
+# Malware
+I want to address any concerns about the legitimacy of this software. OpenResize is distributed under the MIT license, and I encourage users to review the source code and compile it themselves for assurance.
 
-I want to address any concerns about the legitimacy of this software. Roblox Multi-Instance is distributed under the MIT license, and I encourage users to review the source code and compile it themselves for assurance.
+> "In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software." - [MIT License](https://opensource.org/licenses/MIT)
 
-    "In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software." - MIT License
-
-If you have any questions or concerns about Roblox Multi-Instance, feel free to contact me through appropriate channels. I appreciate your understanding and cooperation.
+If you have any questions or concerns about OpenResize, feel free to contact me through appropriate channels. I appreciate your understanding and cooperation.
 ***
 ## More
----
 Q. Why does my antivirus ding it?
 
 

@@ -1,6 +1,3 @@
-# Message
-This is under MIT license. That means I am not liable for **any** damage caused by or related to the program. **Do not** contact me about the program.
-***
 # Roblox Multi-Instance
 Open this program to run multiple Roblox instances (on different accounts) on the same Windows device.
 

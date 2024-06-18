@@ -4,7 +4,7 @@ Open this program to run multiple Roblox instances (on different accounts) on th
 
 **Download (win-x64)** [**Here**](https://github.com/MiningTcup/Roblox-Multi-Instance/releases/tag/v1.1)
 
-**Download (linux-x64 and osx-x64)** [**Here**](https://github.com/MiningTcup/Roblox-Multi-Instance/releases/tag/v1.1)
+**Download (linux-x64 and osx-x64)** [**Here**](https://github.com/MiningTcup/Roblox-Multi-Instance/releases/tag/v1.2)
 
 ***
 

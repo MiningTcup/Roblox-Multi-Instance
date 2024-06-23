@@ -18,7 +18,7 @@ namespace MultipleRoblox
             Console.WriteLine("\n");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Activating ROBLOX_singletonMutex...");
-            new Mutex(true, "ROBLOX_singletonMutex");
+            new Mutex(true, "ROBLOX_singletonEvent");
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.White;
             Console.Write("Made by MiningTcup, some credit to MainDabRblx\n\n--- NOTES ---\nYou may now open as many Roblox instances as you like, ");
